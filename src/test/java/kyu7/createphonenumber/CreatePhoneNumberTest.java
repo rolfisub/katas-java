@@ -1,4 +1,4 @@
-package createphonenumber;
+package kyu7.createphonenumber;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;

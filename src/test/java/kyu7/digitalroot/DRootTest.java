@@ -1,4 +1,4 @@
-package digitalroot;
+package kyu7.digitalroot;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;

@@ -1,4 +1,4 @@
-package findshort;
+package kyu7.findshort;
 
 public class FShort {
     public static int findShort (String str) {

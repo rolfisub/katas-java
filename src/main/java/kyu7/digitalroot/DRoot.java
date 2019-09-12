@@ -1,4 +1,4 @@
-package digitalroot;
+package kyu7.digitalroot;
 
 public class DRoot {
     public static int digital_root(int number)
